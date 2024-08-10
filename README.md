@@ -17,7 +17,7 @@
     ❓ Ask me about react.js  
   </li>
   <li>
-    📫 How to reach me <a target="_blank" href="mailto: yousef1307y@gmail.com">gmail</a> and <a target="_blank" href="http://t.me/yousef_1307">telegram</a>  
+    📫 How to reach me <a target="_blank" href="https://yousef1307y@gmail.com">gmail</a> and <a target="_blank" href="http://t.me/yousef_1307">telegram</a>  
   </li>
   
 </ul>
