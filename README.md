@@ -22,11 +22,7 @@
   
 </ul>
 
-###
 
-<div align="">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yousef-yaghoubi.yousef-yaghoubi&left_text=profile%20views"  />
-</div>
 
 ###
 
