@@ -17,7 +17,7 @@
     ❓ Ask me about react.js  
   </li>
   <li>
-    📫 How to reach me <a href="http://yousef1307y@gmail.com">gmail</a> and <a href="http://t.me/yousef_1307">telegram</a>  
+    📫 How to reach me <a href="https://yousef1307y@gmail.com">gmail</a> and <a href="http://t.me/yousef_1307">telegram</a>  
   </li>
   
 </ul>
@@ -68,7 +68,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"/>
   </a>
   
-  <a href="http://yousef1307y@gmail.com">
+  <a href="https://yousef1307y@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
   </a>
   
