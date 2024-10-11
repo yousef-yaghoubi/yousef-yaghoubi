@@ -2,7 +2,7 @@
 <br clear="both">
 
 <div align="center">
-<img align="center" height="" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fhow-can-developer-improve-skill-developing-mahim-hossain&psig=AOvVaw3XEqNMx3RODQ6GLTFr4hLj&ust=1728731201554000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMih3-eXhokDFQAAAAAdAAAAABAd"  />
+<img align="center" height="" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=L-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U"/>
 </div>
 
 
