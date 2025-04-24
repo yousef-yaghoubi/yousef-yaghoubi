@@ -31,7 +31,7 @@
   My Skill Set
 </h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,redux,tailwind,prisma,bootstrap,git&perline=auto" height="300" alt="logos"  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,redux,tailwind,prisma,bootstrap,git" height="300" alt="logos"  />
 </div>
 
 ###
